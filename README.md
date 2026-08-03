@@ -1,19 +1,19 @@
 <p align="center">
   <a href="https://github.com/harsraj1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Harsh+Raj;Backend+Engineer;Distributed+Systems+Enthusiast;Kafka+%7C+Docker+%7C+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=4000&pause=1000&color=0B5FFF&center=true&vCenter=true&width=800&lines=Harsh+Raj;Backend+Engineer;Distributed+Systems+Enthusiast;Kafka+%7C+Docker+%7C+Scalable+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Building%20scalable%20systems%20%26%20real--world%20software%20solutions-00D4AA?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Tagline" />
+  <img src="https://img.shields.io/badge/Building%20scalable%20systems%20%26%20real--world%20software%20solutions-0B5FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Tagline" />
 </p>
 
 <p align="center">
   <a href="https://github.com/harsraj1">
-    <img src="https://komarev.com/ghpvc/?username=harsraj1&label=Profile%20Views&color=00D4AA&style=for-the-badge&logo=github" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=harsraj1&label=Profile%20Views&color=0B5FFF&style=for-the-badge&logo=github" alt="Profile Views" />
   </a>
   <a href="https://github.com/harsraj1?tab=followers">
-    <img src="https://img.shields.io/github/followers/harsraj1?label=Followers&style=for-the-badge&logo=github&color=00D4AA" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/harsraj1?label=Followers&style=for-the-badge&logo=github&color=0B5FFF" alt="Followers" />
   </a>
   <a href="https://github.com/harsraj1?tab=repositories">
     <img src="https://img.shields.io/github/stars/harsraj1?label=Stars&style=for-the-badge&logo=github&color=F0DB4F" alt="Stars" />
@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=BTech+CSE+%7C+Amity+University+%7C+CGPA%3A+9.01;Backend+Engineer+%7C+Distributed+Systems+Enthusiast;Problem+Solver+%7C+Continuous+Learner" alt="About Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=0B5FFF&center=true&vCenter=true&width=700&lines=BTech+CSE+%7C+Amity+University+%7C+CGPA%3A+9.01;Backend+Engineer+%7C+Distributed+Systems+Enthusiast;Problem+Solver+%7C+Continuous+Learner" alt="About Typing" />
 </p>
 
 <table align="center">
@@ -100,35 +100,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=harsraj1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20Stats&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&bg_color=0D1117" 
-          alt="GitHub Stats" 
-          height="180"
-        />
-      </td>
-      <td>
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsraj1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top%20Languages&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&bg_color=0D1117" 
-          alt="Top Languages" 
-          height="180"
-        />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=harsraj1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" 
-          alt="GitHub Streak" 
-          height="180"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harsraj1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsraj1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=harsraj1&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
 ---
 
 ## 🚀 Projects Showcase
@@ -269,7 +248,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/AI%20APIs-Integration-FF6B6B?style=for-the-badge" alt="AI APIs" />
-  <img src="https://img.shields.io/badge/NLP-Processing-00D4AA?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/NLP-Processing-0B5FFF?style=for-the-badge" alt="NLP" />
 </p>
 
 ---
@@ -312,7 +291,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Lighthouse-95+-00D4AA?style=for-the-badge" alt="Lighthouse" />
+  <img src="https://img.shields.io/badge/Lighthouse-95+-0B5FFF?style=for-the-badge" alt="Lighthouse" />
 </p>
 
 ---
@@ -382,7 +361,7 @@
       <img src="https://img.shields.io/badge/GDG-Volunteer-4285F4?style=for-the-badge&logo=googledevelopers&logoColor=white" />
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/CodeFest-Organizer-00D4AA?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/CodeFest-Organizer-0B5FFF?style=for-the-badge" />
     </td>
     <td align="center" width="20%">
       <img src="https://img.shields.io/badge/National%20Science-2nd%20Rank-F0DB4F?style=for-the-badge&logo=award&logoColor=black" />
@@ -393,7 +372,7 @@
   </tr>
   <tr>
     <td align="center" colspan="5">
-      <img src="https://img.shields.io/badge/Public%20Speaking-Award%20Winner-00D4AA?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Public%20Speaking-Award%20Winner-0B5FFF?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -419,19 +398,19 @@
 <table>
   <tr>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/DSA%20Using%20Python-IIT%20Madras-00D4AA?style=for-the-badge&logo=iit&logoColor=white" />
+      <img src="https://img.shields.io/badge/DSA%20Using%20Python-IIT%20Madras-0B5FFF?style=for-the-badge&logo=iit&logoColor=white" />
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/OOPs%20Fundamentals-IIT%20Roorkee-00D4AA?style=for-the-badge&logo=iit&logoColor=white" />
+      <img src="https://img.shields.io/badge/OOPs%20Fundamentals-IIT%20Roorkee-0B5FFF?style=for-the-badge&logo=iit&logoColor=white" />
     </td>
     <td align="center" width="20%">
       <img src="https://img.shields.io/badge/Postman%20API%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Data%20Science-AnalytixLab-00D4AA?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Data%20Science-AnalytixLab-0B5FFF?style=for-the-badge" />
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Graphic%20Design-LetsUpgrade-00D4AA?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Graphic%20Design-LetsUpgrade-0B5FFF?style=for-the-badge" />
     </td>
   </tr>
 </table>
